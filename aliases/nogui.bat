@@ -64,8 +64,8 @@ echo -====================================================-
 echo goto-sys
 echo Navigate to system32.
 echo -====================================================-
-echo fixwinreg {y/N}
-echo Attempts to fix vulnerable Windows Registry keys and values.
+echo fix {winreg/exploit}
+echo Enables you to fix the Windows Registry, or fix known and supported exploits.
 echo -====================================================-
 echo verboselogon {y/n}
 echo Enables / Disables verbose login messages respectively.
