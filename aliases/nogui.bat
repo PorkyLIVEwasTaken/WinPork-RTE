@@ -71,7 +71,7 @@ echo verboselogon {y/n}
 echo Enables / Disables verbose login messages respectively.
 echo -====================================================-
 echo cursor {y/n}
-echo Shows / Hides the cursor respectively.
+echo Shows / Hides the cursor respectively. (Might not work on all versions of Windows.)
 echo -====================================================-
 echo  
 echo HELP PAGE 3/3
