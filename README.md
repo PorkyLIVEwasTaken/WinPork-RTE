@@ -16,7 +16,7 @@ NOTE: No other drive but the C:\ drive is currently supported. We're working on 
 3. Close the pop-up window by pressing Enter on your keyboard. You now have succesfully booted up WinPork.
 NOTE: Your cursor in invisible in WinPork in some versions of Windows. If so, please navigate certain windows using your keyboard instead.
 
-# Available commands
+# (Currently) Available commands
 List of available WinPork commands: (NOTE: All Windows Command Prompt commands are available as well. Type "help" to display those.)'
 
 reboot: Shutdown WinPork and reboot the computer. 
