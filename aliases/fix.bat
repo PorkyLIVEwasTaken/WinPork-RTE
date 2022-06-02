@@ -65,6 +65,7 @@ exit /b 0
 echo ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 echo EXPLOIT: FOLLINA
 echo EXPLOIT TARGETS: Win95,Win98,WinME/2000,WinXP,WinVista,Win7,Win8,Win8.1,Win10,Win11
+echo EXLPOIT ID: CVE-2022-30190
 echo .
 echo Follina is an exploit that enables hackers to use the custom domain of the Microsoft Diagnostic Support Tool (MSDT) to run malicious code on your computer through Microsoft PowerShell.
 echo It can be dangerous if you get attacked using this exploit and it is therefore recommended to fix this exploit whilst there is no patch released by Microsoft.
