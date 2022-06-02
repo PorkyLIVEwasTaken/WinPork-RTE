@@ -20,18 +20,33 @@ NOTE: Your cursor in invisible in WinPork in some versions of Windows. If so, pl
 List of available WinPork commands: (NOTE: All Windows Command Prompt commands are available as well. Type "help" to display those.)'
 
 reboot: Shutdown WinPork and reboot the computer. 
+
 envreset: Reset the WinPork Environment and reboot the computer.
+
 nogui {pageNumber}: Shows this help message. ({pageNumber} = Help page to display)
+
 wpver: Shows the current version of WinPork.
+
 gentestfile {size}: Generates a Test File in C:\Generated Test Files with the specified size. ({size} = File Size in bytes)
+
 deltestfile: Deletes all test files.
+
 clearscreen: Clears the WinPork teminal.
+
 ext {y/n}: Enables / Disables the .winpork extension respectively.
+
 newuser {NORMAL/quick} [Username] [HasPassword{y/N}] [IsAdmin{y/N}]: Creates a new user.
+
 deluser {username}: Deletes a user. ({username} = User to be deleted)
+
 goto-user {username}: Navigate to the directory of the specified user. ({username} = User to go to)
+
 admin {y/N}: Enables / Disables the Administrator account respectively.
+
 goto-sys: Navigate to system32.
+
 fix {winreg/exploit}: Enables you to fix the Windows Registry, or fix known and supported exploits.
+
 verboselogon {y/n}: Enables / Disables verbose login messages respectively.
+
 cursor {y/n}: Shows / Hides the cursor respectively. (Might not work on all versions of Windows.)
